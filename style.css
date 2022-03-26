@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  height: 100vh;
+}
+.navbar-style {
+  box-shadow: 0 5px 10px #efefef;
+  text-transform: uppercase;
+}
+.logo {
+  height: 70px;
+  padding: 5px 5px;
+  padding-right: 400;
+}
+.nav {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.icon-bar {
+  background: rgb(255, 136, 0);
+}
+li a {
+  color: #333;
+  padding-left: 500;
+  padding-top: 50;
+}
+.img {
+  padding-right: 500;
+}
+a.btn-first {
+  margin-left: 100px;
+}
+a.btn-second {
+  margin-right: 75px;
+}
+.big-text {
+  font-size: 52px;
+  margin: 10px 0;
+  color: darkgreen;
+  padding-left: 100;
+}
+a.button {
+  margin: 30px 10px;
+  width: 150px;
+  padding-left: 100px;
+  border-radius: 20px;
+}
+a.btn-first {
+  background-color: darkorange;
+  color: #fff;
+}
+a.btn-second {
+  background-color: darkorange;
+  border: 1px solid darkorange;
+  color: #fff;
+  margin-left: 25;
+}
+a.btn:hover {
+  background: darkblue;
+  border: none;
+  color: #fff;
+  box-shadow: 5px 5px 10px #999;
+  transition: 0.3s;
+}
+
+.banner-info,
+banner-image {
+  margin: 30px 0;
+}
